@@ -29,11 +29,44 @@ true => 1; false => 0
 
 
 let floatNumber= 3.14
-console.log(typeof floatNumber);
+// console.log(typeof floatNumber);
 
 let stringNumber = String(floatNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
+
+//***************************************OPERATIONS**********************************************/
+
+let value = 3
+let negValue = -value
+// console.log(negValue)
+
+// console.log(3+3);
+// console.log(3-3);
+// console.log(3*3);
+// console.log(3/3);
+// console.log(3**2);            //3^2
+// console.log(3%3);               //Remainder
+
+let str1= "hello "
+let str2 = "Vishal"
+// console.log(str1+str2);
+
+// console.log("1" + 2)
+// console.log(1 + "2")
+// console.log("1"+ 2 + 2)
+// console.log(1 + 2 + "2")
+
+// console.log(true)
+// console.log(+true)
+
+let num1,num2,num3
+num1 = num2 = num3 = 2+2
+
+let gameCounter = 100
+gameCounter++;
+
+console.log(gameCounter)
 
 
