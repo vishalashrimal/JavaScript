@@ -47,3 +47,7 @@ const user = {
 const calculator = (num1, num2) => ({username : "Vishal"});
 console.log(calculator(5,6)); 
 
+//+++++++++++++++++++++++++++++++++++ Arrow Function Declaration +++++++++++
+
+//"() => {}  "
+
