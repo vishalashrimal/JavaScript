@@ -40,7 +40,7 @@ buttons.forEach(function (button) {
 
 ## project 2 Solution Code
 
-``` javaScript
+``` javascript
 
   const form = document.querySelector('form')
 //This usecase give you empty Value
@@ -85,5 +85,10 @@ setInterval(function(){
 }, 1000) //1000 milisec = 1 sec
 
 
+```
+
+## Project 4
+
+```javascript
 
 ```
